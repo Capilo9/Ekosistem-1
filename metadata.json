@@ -1,0 +1,6 @@
+{
+  "name": "EcoQuest: Penjaga Ekosistem",
+  "description": "Gim edukatif sains interaktif kelas 5 SD tentang komponen biotik, abiotik, peran, dan keseimbangan ekosistem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
